@@ -2,13 +2,12 @@
 
 *Project in progress...*
 
-Check the https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html[115 best green coding practices].
+Although green coding is becoming more and more important to considerate for the digital development and sustainability of our world, it can be seen as a really tough process, especially when it comes to follow the https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html[115 best practices (Green IT)]. This project tries to provide a really simple tool as a web app that will help devs willing to be more responsible to know where they are in their process of making greener projects.
 
 == Made with
+
 ++++
 <div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 ++++
