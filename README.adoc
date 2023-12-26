@@ -2,9 +2,9 @@
 
 *Project in progress...*
 
-Although green coding is becoming more and more important to considerate for the digital development and sustainability of our world, it can be seen as a really tough process, especially when it comes to follow the https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html[115 best practices (Green IT)]. This project tries to provide a really simple tool as a web app that will help devs willing to be more responsible to know where they are in their process of making greener projects.
+Although green coding is becoming more and more important to considerate for the digital development and sustainability of our world, it can be seen as a really tough process, especially when it comes to follow the https://github.com/cnumr/best-practices/tree/main[115 best Green IT practices]. This project tries to provide a really simple tool as a web app that will help devs willing to be more responsible to know where they are in their process of making greener projects.
 
-The goal of this project are:
+The goals of this project are:
 
 * First, to provide a fast and easy interface that developers will be able to use to manage the best practices that can be applied to their projects. An ergonomic dashboard will display diagrams and data about their global progression to quickly know how advanced they are.
 
